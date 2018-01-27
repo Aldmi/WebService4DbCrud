@@ -1,0 +1,11 @@
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\QuartzSheduler\bin\Debug\netcoreapp2.0\QuartzSheduler.deps.json
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\QuartzSheduler\bin\Debug\netcoreapp2.0\QuartzSheduler.dll
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\QuartzSheduler\bin\Debug\netcoreapp2.0\QuartzSheduler.pdb
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\QuartzSheduler\obj\Debug\netcoreapp2.0\QuartzSheduler.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\QuartzSheduler\obj\Debug\netcoreapp2.0\QuartzSheduler.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\QuartzSheduler\obj\Debug\netcoreapp2.0\QuartzSheduler.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\QuartzSheduler\obj\Debug\netcoreapp2.0\QuartzSheduler.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\QuartzSheduler\obj\Debug\netcoreapp2.0\QuartzSheduler.dll
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\QuartzSheduler\obj\Debug\netcoreapp2.0\QuartzSheduler.pdb
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\QuartzSheduler\bin\Debug\netcoreapp2.0\CommunicationDevices.dll
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\QuartzSheduler\bin\Debug\netcoreapp2.0\CommunicationDevices.pdb

@@ -1,0 +1,9 @@
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\CommunicationDevices\bin\Debug\netcoreapp2.0\CommunicationDevices.deps.json
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\CommunicationDevices\bin\Debug\netcoreapp2.0\CommunicationDevices.dll
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\CommunicationDevices\bin\Debug\netcoreapp2.0\CommunicationDevices.pdb
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\CommunicationDevices\obj\Debug\netcoreapp2.0\CommunicationDevices.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\CommunicationDevices\obj\Debug\netcoreapp2.0\CommunicationDevices.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\CommunicationDevices\obj\Debug\netcoreapp2.0\CommunicationDevices.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\CommunicationDevices\obj\Debug\netcoreapp2.0\CommunicationDevices.dll
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\CommunicationDevices\obj\Debug\netcoreapp2.0\CommunicationDevices.pdb
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\CommunicationDevices\obj\Debug\netcoreapp2.0\CommunicationDevices.csprojResolveAssemblyReference.cache

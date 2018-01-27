@@ -1,0 +1,11 @@
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\DAL.EFcore\bin\Debug\netcoreapp2.0\DAL.EFcore.deps.json
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\DAL.EFcore\bin\Debug\netcoreapp2.0\DAL.EFcore.dll
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\DAL.EFcore\bin\Debug\netcoreapp2.0\DAL.EFcore.pdb
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\DAL.EFcore\obj\Debug\netcoreapp2.0\DAL.EFcore.csprojResolveAssemblyReference.cache
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\DAL.EFcore\obj\Debug\netcoreapp2.0\DAL.EFcore.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\DAL.EFcore\obj\Debug\netcoreapp2.0\DAL.EFcore.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\DAL.EFcore\obj\Debug\netcoreapp2.0\DAL.EFcore.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\DAL.EFcore\obj\Debug\netcoreapp2.0\DAL.EFcore.dll
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\DAL.EFcore\obj\Debug\netcoreapp2.0\DAL.EFcore.pdb
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\DAL.EFcore\bin\Debug\netcoreapp2.0\DAL.dll
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\DAL.EFcore\bin\Debug\netcoreapp2.0\DAL.pdb

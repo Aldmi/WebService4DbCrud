@@ -1,0 +1,11 @@
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\BL\bin\Debug\netcoreapp2.0\BL.deps.json
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\BL\bin\Debug\netcoreapp2.0\BL.dll
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\BL\bin\Debug\netcoreapp2.0\BL.pdb
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\BL\bin\Debug\netcoreapp2.0\DAL.dll
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\BL\bin\Debug\netcoreapp2.0\DAL.pdb
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\BL\obj\Debug\netcoreapp2.0\BL.csproj.CoreCompileInputs.cache
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\BL\obj\Debug\netcoreapp2.0\BL.AssemblyInfoInputs.cache
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\BL\obj\Debug\netcoreapp2.0\BL.AssemblyInfo.cs
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\BL\obj\Debug\netcoreapp2.0\BL.dll
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\BL\obj\Debug\netcoreapp2.0\BL.pdb
+D:\Dropbox\C#\ASP NET Core\WebApiCoreArch\BL\obj\Debug\netcoreapp2.0\BL.csprojResolveAssemblyReference.cache
