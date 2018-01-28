@@ -37,8 +37,8 @@ namespace WebApi.Controllers
 
             var service = new StationService(_stationRepository);
 
-            Log.Error("!!!!!!!!!!!!!!!!!!! gfgfg");
-
+            //Log.Error("!!!!!!!!!!!!!!!!!!! gfgfg");
+            Library.Log.Logger.Fatal("tytryrty");
         
 
             var stations = service.GetStations(User);

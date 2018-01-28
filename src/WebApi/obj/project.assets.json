@@ -5079,10 +5079,7 @@
           "Library": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "2.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.1",
-          "Microsoft.EntityFrameworkCore.Tools": "2.0.1",
-          "Microsoft.Extensions.Configuration": "2.0.0",
-          "Microsoft.Extensions.Configuration.FileExtensions": "2.0.0",
-          "Microsoft.Extensions.Configuration.Json": "2.0.0"
+          "Microsoft.EntityFrameworkCore.Tools": "2.0.1"
         },
         "compile": {
           "bin/placeholder/DAL.EFcore.dll": {}
@@ -13420,16 +13417,7 @@
       "Microsoft.AspNetCore.All >= 2.0.3",
       "Microsoft.NETCore.App >= 2.0.0",
       "Quartz >= 3.0.1",
-      "QuartzSheduler >= 1.0.0",
-      "Serilog >= 2.6.0",
-      "Serilog.Enrichers.Thread >= 3.0.0",
-      "Serilog.Extensions.Logging >= 2.0.2",
-      "Serilog.Formatting.Compact >= 1.0.0",
-      "Serilog.Settings.Configuration >= 2.4.0",
-      "Serilog.Sinks.Console >= 3.1.1",
-      "Serilog.Sinks.File >= 4.0.0",
-      "Serilog.Sinks.Literate >= 3.0.0",
-      "Serilog.Sinks.RollingFile >= 3.3.0"
+      "QuartzSheduler >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -13507,42 +13495,6 @@
           "Quartz": {
             "target": "Package",
             "version": "[3.0.1, )"
-          },
-          "Serilog": {
-            "target": "Package",
-            "version": "[2.6.0, )"
-          },
-          "Serilog.Enrichers.Thread": {
-            "target": "Package",
-            "version": "[3.0.0, )"
-          },
-          "Serilog.Extensions.Logging": {
-            "target": "Package",
-            "version": "[2.0.2, )"
-          },
-          "Serilog.Formatting.Compact": {
-            "target": "Package",
-            "version": "[1.0.0, )"
-          },
-          "Serilog.Settings.Configuration": {
-            "target": "Package",
-            "version": "[2.4.0, )"
-          },
-          "Serilog.Sinks.Console": {
-            "target": "Package",
-            "version": "[3.1.1, )"
-          },
-          "Serilog.Sinks.File": {
-            "target": "Package",
-            "version": "[4.0.0, )"
-          },
-          "Serilog.Sinks.Literate": {
-            "target": "Package",
-            "version": "[3.0.0, )"
-          },
-          "Serilog.Sinks.RollingFile": {
-            "target": "Package",
-            "version": "[3.3.0, )"
           }
         },
         "imports": [

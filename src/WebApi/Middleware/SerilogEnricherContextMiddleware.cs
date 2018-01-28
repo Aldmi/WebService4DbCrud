@@ -34,10 +34,13 @@ namespace WebApi.Middleware
                 enrichers.Push(userAgentEnricher);
             }
 
-            using (LogContext.Push(enrichers.ToArray()))
+            using (Library.Log.Logger.PushEnrichers(enrichers.ToArray()))
             {
                 await _next(context);
             }
+
+            //DEBUG
+            //await _next(context);
         }
     }
 }

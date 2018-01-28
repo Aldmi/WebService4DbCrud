@@ -35,16 +35,6 @@ namespace DAL.EFcore.DbContext
         //Context сам получает строку подключения при миграции и работе.
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            //var builder = new ConfigurationBuilder();
-            //// установка пути к текущему каталогу
-            //builder.SetBasePath(Directory.GetCurrentDirectory());
-            //// получаем конфигурацию из файла appsettings.json
-            //builder.AddJsonFile("appsettings.json");
-            //// создаем конфигурацию
-            //var config = builder.Build();
-            //// получаем строку подключения
-            //var connectionString = config.GetConnectionString("MainDbConnection");
-
            var config= JsonConfigLib.GetConfiguration();
            var connectionString= config.GetConnectionString("MainDbConnection");
            optionsBuilder.UseSqlServer(connectionString);
