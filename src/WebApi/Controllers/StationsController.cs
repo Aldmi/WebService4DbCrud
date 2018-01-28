@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using BL.Servises;
 using DAL.Concrete;
 using Microsoft.AspNetCore.Mvc;
+using Serilog;
 using WebApi.Model;
 
 
@@ -36,6 +37,9 @@ namespace WebApi.Controllers
 
             var service = new StationService(_stationRepository);
 
+            Log.Error("!!!!!!!!!!!!!!!!!!! gfgfg");
+
+        
 
             var stations = service.GetStations(User);
             //MAP DAL.Station -> StationModel 

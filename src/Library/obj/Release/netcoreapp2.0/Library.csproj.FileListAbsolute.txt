@@ -1,0 +1,9 @@
+D:\Git\WebService4DbCrud\src\Library\bin\Release\netcoreapp2.0\Library.deps.json
+D:\Git\WebService4DbCrud\src\Library\bin\Release\netcoreapp2.0\Library.dll
+D:\Git\WebService4DbCrud\src\Library\bin\Release\netcoreapp2.0\Library.pdb
+D:\Git\WebService4DbCrud\src\Library\obj\Release\netcoreapp2.0\Library.csprojResolveAssemblyReference.cache
+D:\Git\WebService4DbCrud\src\Library\obj\Release\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+D:\Git\WebService4DbCrud\src\Library\obj\Release\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+D:\Git\WebService4DbCrud\src\Library\obj\Release\netcoreapp2.0\Library.AssemblyInfo.cs
+D:\Git\WebService4DbCrud\src\Library\obj\Release\netcoreapp2.0\Library.dll
+D:\Git\WebService4DbCrud\src\Library\obj\Release\netcoreapp2.0\Library.pdb

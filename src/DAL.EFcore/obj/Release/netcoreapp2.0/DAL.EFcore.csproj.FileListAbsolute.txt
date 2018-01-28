@@ -1,0 +1,13 @@
+D:\Git\WebService4DbCrud\src\DAL.EFcore\bin\Release\netcoreapp2.0\DAL.EFcore.deps.json
+D:\Git\WebService4DbCrud\src\DAL.EFcore\bin\Release\netcoreapp2.0\DAL.EFcore.dll
+D:\Git\WebService4DbCrud\src\DAL.EFcore\bin\Release\netcoreapp2.0\DAL.EFcore.pdb
+D:\Git\WebService4DbCrud\src\DAL.EFcore\bin\Release\netcoreapp2.0\DAL.dll
+D:\Git\WebService4DbCrud\src\DAL.EFcore\bin\Release\netcoreapp2.0\Library.dll
+D:\Git\WebService4DbCrud\src\DAL.EFcore\bin\Release\netcoreapp2.0\DAL.pdb
+D:\Git\WebService4DbCrud\src\DAL.EFcore\bin\Release\netcoreapp2.0\Library.pdb
+D:\Git\WebService4DbCrud\src\DAL.EFcore\obj\Release\netcoreapp2.0\DAL.EFcore.csprojResolveAssemblyReference.cache
+D:\Git\WebService4DbCrud\src\DAL.EFcore\obj\Release\netcoreapp2.0\DAL.EFcore.csproj.CoreCompileInputs.cache
+D:\Git\WebService4DbCrud\src\DAL.EFcore\obj\Release\netcoreapp2.0\DAL.EFcore.AssemblyInfoInputs.cache
+D:\Git\WebService4DbCrud\src\DAL.EFcore\obj\Release\netcoreapp2.0\DAL.EFcore.AssemblyInfo.cs
+D:\Git\WebService4DbCrud\src\DAL.EFcore\obj\Release\netcoreapp2.0\DAL.EFcore.dll
+D:\Git\WebService4DbCrud\src\DAL.EFcore\obj\Release\netcoreapp2.0\DAL.EFcore.pdb

@@ -1,0 +1,9 @@
+D:\Git\WebService4DbCrud\src\CommunicationDevices\bin\Release\netcoreapp2.0\CommunicationDevices.deps.json
+D:\Git\WebService4DbCrud\src\CommunicationDevices\bin\Release\netcoreapp2.0\CommunicationDevices.dll
+D:\Git\WebService4DbCrud\src\CommunicationDevices\bin\Release\netcoreapp2.0\CommunicationDevices.pdb
+D:\Git\WebService4DbCrud\src\CommunicationDevices\obj\Release\netcoreapp2.0\CommunicationDevices.csprojResolveAssemblyReference.cache
+D:\Git\WebService4DbCrud\src\CommunicationDevices\obj\Release\netcoreapp2.0\CommunicationDevices.csproj.CoreCompileInputs.cache
+D:\Git\WebService4DbCrud\src\CommunicationDevices\obj\Release\netcoreapp2.0\CommunicationDevices.AssemblyInfoInputs.cache
+D:\Git\WebService4DbCrud\src\CommunicationDevices\obj\Release\netcoreapp2.0\CommunicationDevices.AssemblyInfo.cs
+D:\Git\WebService4DbCrud\src\CommunicationDevices\obj\Release\netcoreapp2.0\CommunicationDevices.dll
+D:\Git\WebService4DbCrud\src\CommunicationDevices\obj\Release\netcoreapp2.0\CommunicationDevices.pdb

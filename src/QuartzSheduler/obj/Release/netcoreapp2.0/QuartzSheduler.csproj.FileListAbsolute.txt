@@ -1,0 +1,11 @@
+D:\Git\WebService4DbCrud\src\QuartzSheduler\bin\Release\netcoreapp2.0\QuartzSheduler.deps.json
+D:\Git\WebService4DbCrud\src\QuartzSheduler\bin\Release\netcoreapp2.0\QuartzSheduler.dll
+D:\Git\WebService4DbCrud\src\QuartzSheduler\bin\Release\netcoreapp2.0\QuartzSheduler.pdb
+D:\Git\WebService4DbCrud\src\QuartzSheduler\bin\Release\netcoreapp2.0\CommunicationDevices.dll
+D:\Git\WebService4DbCrud\src\QuartzSheduler\bin\Release\netcoreapp2.0\CommunicationDevices.pdb
+D:\Git\WebService4DbCrud\src\QuartzSheduler\obj\Release\netcoreapp2.0\QuartzSheduler.csprojResolveAssemblyReference.cache
+D:\Git\WebService4DbCrud\src\QuartzSheduler\obj\Release\netcoreapp2.0\QuartzSheduler.csproj.CoreCompileInputs.cache
+D:\Git\WebService4DbCrud\src\QuartzSheduler\obj\Release\netcoreapp2.0\QuartzSheduler.AssemblyInfoInputs.cache
+D:\Git\WebService4DbCrud\src\QuartzSheduler\obj\Release\netcoreapp2.0\QuartzSheduler.AssemblyInfo.cs
+D:\Git\WebService4DbCrud\src\QuartzSheduler\obj\Release\netcoreapp2.0\QuartzSheduler.dll
+D:\Git\WebService4DbCrud\src\QuartzSheduler\obj\Release\netcoreapp2.0\QuartzSheduler.pdb

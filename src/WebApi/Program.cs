@@ -21,5 +21,6 @@ namespace WebApi
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+
     }
 }

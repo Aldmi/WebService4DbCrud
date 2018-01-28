@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Reflection;
 using DAL.EFcore.DbContext.EntityConfiguration;
+using Library.ForConfigFiles;
 using Microsoft.Extensions.Configuration;
 
 
@@ -31,20 +32,22 @@ namespace DAL.EFcore.DbContext
 
 
 
-
+        //Context сам получает строку подключения при миграции и работе.
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var builder = new ConfigurationBuilder();
-            // установка пути к текущему каталогу
-            builder.SetBasePath(Directory.GetCurrentDirectory());
-            // получаем конфигурацию из файла appsettings.json
-            builder.AddJsonFile("appsettings.json");
-            // создаем конфигурацию
-            var config = builder.Build();
-            // получаем строку подключения
-            var connectionString = config.GetConnectionString("MainDbConnection");
-            
-            optionsBuilder.UseSqlServer(connectionString);
+            //var builder = new ConfigurationBuilder();
+            //// установка пути к текущему каталогу
+            //builder.SetBasePath(Directory.GetCurrentDirectory());
+            //// получаем конфигурацию из файла appsettings.json
+            //builder.AddJsonFile("appsettings.json");
+            //// создаем конфигурацию
+            //var config = builder.Build();
+            //// получаем строку подключения
+            //var connectionString = config.GetConnectionString("MainDbConnection");
+
+           var config= JsonConfigLib.GetConfiguration();
+           var connectionString= config.GetConnectionString("MainDbConnection");
+           optionsBuilder.UseSqlServer(connectionString);
             //optionsBuilder.UseSqlServer(connectionString, ob => ob.MigrationsAssembly(typeof(Context).GetTypeInfo().Assembly.GetName().Name));
         }
 
