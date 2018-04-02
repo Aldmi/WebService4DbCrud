@@ -4,8 +4,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
-using Microsoft.EntityFrameworkCore.Storage;
-using Microsoft.EntityFrameworkCore.Storage.Internal;
 using System;
 
 namespace DAL.EFcore.Migrations
@@ -42,8 +40,6 @@ namespace DAL.EFcore.Migrations
                     b.Property<string>("NameEng");
 
                     b.Property<string>("NameRu");
-
-                    b.Property<int>("TestNew");
 
                     b.HasKey("Id");
 
