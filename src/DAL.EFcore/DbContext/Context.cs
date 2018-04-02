@@ -13,6 +13,9 @@ namespace DAL.EFcore.DbContext
 
     public sealed class Context : Microsoft.EntityFrameworkCore.DbContext
     {
+        private readonly string _connStr;  // строка подключенния
+
+
         #region Reps
 
         public DbSet<EfStation> EfStations { get; set; }
@@ -22,23 +25,39 @@ namespace DAL.EFcore.DbContext
 
 
 
+
         #region ctor
-        public Context()
+
+
+        //public Context()
+        //{
+        //    //Отключение Tracking для всего контекста
+        //    ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
+        //}
+
+        public Context(string connStr)
         {
-            //Отключение Tracking для всего контекста
+            _connStr = connStr;
             ChangeTracker.QueryTrackingBehavior = QueryTrackingBehavior.NoTracking;
         }
+
         #endregion
 
 
 
-        //Context сам получает строку подключения при миграции и работе.
+        
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-           var config= JsonConfigLib.GetConfiguration();
-           var connectionString= config.GetConnectionString("MainDbConnection");
-           optionsBuilder.UseSqlServer(connectionString);
-            //optionsBuilder.UseSqlServer(connectionString, ob => ob.MigrationsAssembly(typeof(Context).GetTypeInfo().Assembly.GetName().Name));
+            //Context сам получает строку подключения при миграции и работе.
+            //(Рабоатет для миграции и работы!!!!!!!)
+
+
+            // var config = JsonConfigLib.GetConfiguration();
+            //var connectionString = config.GetConnectionString("MainDbConnection");
+            //optionsBuilder.UseSqlServer(connectionString);
+            //optionsBuilder.UseSqlServer(connectionString, ob => ob.MigrationsAssembly(typeof(Context).GetTypeInfo().Assembly.GetName().Name));\
+
+            optionsBuilder.UseSqlServer(_connStr);
         }
 
 

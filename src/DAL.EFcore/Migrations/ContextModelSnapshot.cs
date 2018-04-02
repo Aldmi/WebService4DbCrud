@@ -43,6 +43,8 @@ namespace DAL.EFcore.Migrations
 
                     b.Property<string>("NameRu");
 
+                    b.Property<int>("TestNew");
+
                     b.HasKey("Id");
 
                     b.HasIndex("EfRouteId");

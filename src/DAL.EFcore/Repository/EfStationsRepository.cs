@@ -15,9 +15,9 @@ namespace DAL.EFcore.Repository
 
 
 
-        public EfStationsRepository()
+        public EfStationsRepository(string connStr)
         {
-            _context = new Context();
+            _context = new Context(connStr);
         }
 
 

@@ -39,9 +39,9 @@ namespace WebApi
         {
             services.AddMvc();
 
-            //TODO: connString брать из настрек
-            var connString = @"Server=(localdb)\mssqllocaldb;Database=SuperDb;Trusted_Connection=True;";
-            services.AddTransient<IStationRepository>(s => new EfStationsRepository());
+            //TODO: connString брать из настроек
+            var connStr= @"Server=(localdb)\\mssqllocaldb;Database=SuperDb;Trusted_Connection=True;";
+            services.AddTransient<IStationRepository>(s => new EfStationsRepository(connStr));
 
             //services.AddTransient<HttpBaseExchangeBehavior>();
 

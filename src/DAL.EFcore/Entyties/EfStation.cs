@@ -9,5 +9,8 @@
 
         public int EfRouteId { get; set; }
         public EfRoute EfRoute { get; set; }
+
+
+        public int TestNew { get; set; }
     }
 }
